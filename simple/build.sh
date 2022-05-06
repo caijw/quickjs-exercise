@@ -1,0 +1,1 @@
+gcc  -I/usr/local/include/quickjs  -L/usr/local/lib/quickjs  -lquickjs  simple.c
